@@ -8,6 +8,9 @@ MENTOR- NEHA MAM
 OVERVIEW OF THE PROJECT
    PROJECT-CREATE DATABASE FOR MANAGING A LIBRARY'S BOOK INVENTORY,MEMBERS,AND BORROW/RETURN TRANSACTIONS.DESIGN TABLES FOR BOOKS,MEMBERS AND TRANSACTIONS .WRITE SQL QUERIES TO INSERT,UPDATE,DELETE AND RETRIEVE DATA.
   
+![image](https://github.com/user-attachments/assets/ce91cc91-7bc2-4b0f-aea4-08a646bc27f2)
+![image](https://github.com/user-attachments/assets/6300b1b0-cff9-4aca-8770-20e34b61030a)
+![image](https://github.com/user-attachments/assets/5d71125f-6afb-47f0-8d25-f85d7ab8025c)
 
 
 OBJECTIVE :
